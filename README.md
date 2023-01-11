@@ -1,3 +1,3 @@
-# WinterTraining-DSA-Assignment1
+# WinterTraining-DSA-Assignments
 
-Winning Camp for Chandigarh University - Week 1 Assignment
+Winning Camp for Chandigarh University - Data Structure Assignments
